@@ -10,6 +10,10 @@ The first step is to get your computer set up to run python in a Jupyter noteboo
 
 Next, you are going to test that you can start up and run Jupyter notebooks and also check that some important python modules are installed.
 
+First, download this Jupyter notebook file: [test_python_environment.ipynb](https://raw.githubusercontent.com/cbischoff/UC-physics-computing/main/test_python_environment.ipynb) (i.e. right-click or ctrl-click and "Save As")
+
 When you installed Anaconda, that should provide a launcher program called "Anaconda Navigator". When you run Anaconda Navigator, you should get a window similar to the one shown below. Find the pane for Jupyter Notebook and select the Launch button (circled below in red).
 
 Launching Jupyter notebook will open a new tab in your web browser that lets you browse through files on your computer. Navigate to the Jupyter notebook file, `test_python_environment.ipynb`, that you downloaded. Clicking on this file will run the Jupyter notebook in a new tab. 
+
+![Anaconda Navigator window](https://github.com/cbischoff/UC-physics-computing/blob/main/anaconda_navigator.png)
